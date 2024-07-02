@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/koswara-dev/selenium-ui-validation.git
-   cd ui-validation-java-selenium-gpt4
+   cd selenium-ui-validation
    ```
 
 2. **Open the project in IntelliJ IDEA:**
